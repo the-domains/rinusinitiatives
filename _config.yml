@@ -1,0 +1,28 @@
+name: rinusinitiatives
+favicon: null
+layout_spectrum: 0.7477505959104747
+typography_spectrum: 0.8295328705571592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6101326814386994
+  lightness: 0.7401432921178639
+  saturation: 0.9429432358592749
+  rhythmicContrast: 0.26991191739216447
+purpose: []
